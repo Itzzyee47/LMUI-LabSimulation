@@ -6,7 +6,8 @@ function Footer(){
     return (
         <>
             <footer>
-                <center>  LMUI_LabSim &copy;2024</center> <small> Product of NzenXR</small>
+                <center>  LMUI_LabSim &copy;2024</center> 
+                <center><small> Product of NzenXR</small></center>
             </footer>
         </>
     )
